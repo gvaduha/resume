@@ -1,9 +1,29 @@
 # Curriculum Vitae
 
+## Contacts
+gvaduha@gmail.com
+https://github.com/gvaduha
+
 ## Projects
-Volkswagen financial services
+
+### Security
+Multi factor authentication and authorization
+Perimeter security guard
+Software protection bundle
+Traffic analyzer
+
+### Misc 
 MES AI emissions control
-Portal multi factor authentication and authorization
+Surveillance and access control
+Service bus layer
+Hospital Patient e-Record system
+Rapid web portal prototyping
+Numerous integration projects
+
+### Financial
+Volkswagen financial services
+Banking services as REST cluster
+Online trading
 
 ## Work experience
 
@@ -70,4 +90,8 @@ other - will learn if needed
 ## Interests
 Computer and human languages
 AI
+Travelling, hiking
 Ice hockey, cycling, motorcycling
+
+## My tech tags
+research, architecture, UML, innovation, AI, classification, .NET, F#, C#, C++, mongodb, big data, security, TCP, REST, authentication, golang, python, SQL, MES
