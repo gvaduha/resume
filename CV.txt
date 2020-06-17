@@ -72,6 +72,7 @@ Agroimpuls Bank - Software Developer
 Sep 1993 - Jul 1998 Voronezh State Technical University
 Computer Science, Systems Engineer (4.26 of 5)
 
+Jun 2020 - EF SET (efset.org) - English C2 (Proficient) (efset.org/cert/tUHqpo)
 Jul 2016 - MongoDB University - M101N: MongoDB for .NET Developers
 Sep 2002 - SkillDrill (S0U502862) MSVC++ 6.0
 Aug 2002 - SkillDrill (S0U502862) MSVC++ 6.0
@@ -84,7 +85,7 @@ May 2000 - BrainBench (498) Javascript Programmer
 
 ## Languages
 Russian - native
-English - C2 (efset.org)
+English - C2 (Proficient) (efset.org/cert/tUHqpo)
 other - will learn if needed
 
 ## Interests
