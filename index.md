@@ -28,13 +28,13 @@ Online trading
 ## Work experience
 
 March 2019 – Present  
-Digital Mind Development Ltd [digitalmind-d.com](digitalmind-d.com) - R&D group lead  
+Digital Mind Development Ltd [http://digitalmind-d.com](digitalmind-d.com) - R&D group lead  
   
 Jul 2012 - Nov 2018  
 1C (1c.com) - Researcher / Developer  
   
 Oct 2012 - Mar 2014  
-Bell Integrator [bellintegrator.com](bellintegrator.com) - Architect  
+Bell Integrator [http://bellintegrator.com](bellintegrator.com) - Architect  
   
 Sep 2009 - Oct 2012  
 Luxoft (luxoft.com) - Solution Architect / Group leader  
@@ -43,10 +43,10 @@ Dec 2007 - Jul 2009
 INPAS (inpas.ru) - System Architect  
   
 Mar 2004 - Nov 2007  
-Kaspersky Lab [kaspersky.com](kaspersky.com) /[infowatch.com](infowatch.com) - Architect / from Nov 2005 Head of Development Division  
+Kaspersky Lab [http://kaspersky.com](kaspersky.com) /[http://infowatch.com](infowatch.com) - Architect / from Nov 2005 Head of Development Division  
   
 Mar 2003 - Mar 2004  
-EGAR TECHNOLOGY, INC. [egartech.com](egartech.com) - Senior Developer  
+EGAR TECHNOLOGY, INC. [http://egartech.com](egartech.com) - Senior Developer  
   
 May 2002 - Sep 2002  
 Softmedia - Analyst  
@@ -72,20 +72,20 @@ Agroimpuls Bank - Software Developer
 Sep 1993 - Jul 1998 Voronezh State Technical University  
 Computer Science, Systems Engineer (4.26 of 5)  
   
-Jun 2020 - EF SET [efset.org](efset.org/cert/tUHqpo) - English C2 (Proficient)  
-Jul 2016 - MongoDB University - M101N: MongoDB for .NET Developers [view](MongoDBCertificate.pdf)  
-Sep 2002 - SkillDrill (S0U502862) MSVC++ 6.0  
-Aug 2002 - SkillDrill (S0U502862) MSVC++ 6.0  
-Nov 2000 - BrainBench (498) Visual C++  
-Oct 2000 - BrainBench (498) MS Visual InterDev 6.0  
-Jun 2000 - BrainBench (498) Java 1.2 Programmer  
-May 2000 - BrainBench (498) C++ Programmer  
-May 2000 - BrainBench (498) Javascript Programmer  
+Jun 2020 - EF SET [efset.org](http://egartech.comefset.org/cert/tUHqpo) - English C2 (Proficient)  
+Jul 2016 - [MongoDB University](MongoDBCertificate.pdf) - M101N: MongoDB for .NET Developers  
+Sep 2002 - [SkillDrill](SkillDrillCertificates.pdf) (S0U502862) MSVC++ 6.0  
+Aug 2002 - [SkillDrill](SkillDrillCertificates.pdf) (S0U502862) MSVC++ 6.0  
+Nov 2000 - [BrainBench](BrainBenchCertificates.pdf) (ID 498) Visual C++  
+Oct 2000 - [BrainBench](BrainBenchCertificates.pdf) (ID 498) MS Visual InterDev 6.0  
+Jun 2000 - [BrainBench](BrainBenchCertificates.pdf) (ID 498) Java 1.2 Programmer  
+May 2000 - [BrainBench](BrainBenchCertificates.pdf) (ID 498) C++ Programmer  
+May 2000 - [BrainBench](BrainBenchCertificates.pdf) (ID 498) Javascript Programmer  
 
 
 ## Languages
 Russian - native  
-English - C2 (Proficient) (efset.org/cert/tUHqpo)  
+English - C2 (Proficient) [efset.org/cert/tUHqpo](efset.org/cert/tUHqpo)  
 other - will learn if needed  
 
 ## Interests
