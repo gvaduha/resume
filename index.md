@@ -1,3 +1,5 @@
+layout: page
+
 # Curriculum Vitae
 
 ## Contacts
