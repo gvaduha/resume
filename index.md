@@ -72,7 +72,7 @@ Agroimpuls Bank - Software Developer
 Sep 1993 - Jul 1998 Voronezh State Technical University  
 Computer Science, Systems Engineer (4.26 of 5)  
   
-Jun 2020 - EF SET [efset.org](http://fset.org/cert/tUHqpo) - English C2 (Proficient)  
+Jun 2020 - EF SET [efset.org](EF-SET-Certificate-2020-06-17.pdf) - English C2 (Proficient)  
 Jul 2016 - [MongoDB University](MongoDBCertificate.pdf) - M101N: MongoDB for .NET Developers  
 Sep 2002 - [SkillDrill](SkillDrillCertificates.pdf) (S0U502862) MSVC++ 6.0  
 Aug 2002 - [SkillDrill](SkillDrillCertificates.pdf) (S0U502862) MSVC++ 6.0  
