@@ -28,13 +28,13 @@ Online trading
 ## Work experience
 
 March 2019 – Present  
-Digital Mind Development Ltd [http://digitalmind-d.com](digitalmind-d.com) - R&D group lead  
+Digital Mind Development Ltd (http://digitalmind-d.com) - R&D group lead  
   
 Jul 2012 - Nov 2018  
 1C (1c.com) - Researcher / Developer  
   
 Oct 2012 - Mar 2014  
-Bell Integrator [http://bellintegrator.com](bellintegrator.com) - Architect  
+Bell Integrator [bellintegrator.com](http://bellintegrator.com) - Architect  
   
 Sep 2009 - Oct 2012  
 Luxoft (luxoft.com) - Solution Architect / Group leader  
