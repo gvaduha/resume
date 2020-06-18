@@ -28,7 +28,7 @@ Online trading
 ## Work experience
 
 March 2019 – Present  
-Digital Mind Development Ltd (http://digitalmind-d.com) - R&D group lead  
+Digital Mind Development Ltd [digitalmind-d.com](http://digitalmind-d.com) - R&D group lead  
   
 Jul 2012 - Nov 2018  
 1C (1c.com) - Researcher / Developer  
@@ -43,10 +43,10 @@ Dec 2007 - Jul 2009
 INPAS (inpas.ru) - System Architect  
   
 Mar 2004 - Nov 2007  
-Kaspersky Lab [http://kaspersky.com](kaspersky.com) /[http://infowatch.com](infowatch.com) - Architect / from Nov 2005 Head of Development Division  
+Kaspersky Lab [kaspersky.com](http://kaspersky.com) /[infowatch.com](http://infowatch.com) - Architect / from Nov 2005 Head of Development Division  
   
 Mar 2003 - Mar 2004  
-EGAR TECHNOLOGY, INC. [http://egartech.com](egartech.com) - Senior Developer  
+EGAR TECHNOLOGY, INC. [egartech.com](http://egartech.com) - Senior Developer  
   
 May 2002 - Sep 2002  
 Softmedia - Analyst  
