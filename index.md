@@ -31,16 +31,16 @@ March 2019 – Present
 Digital Mind Development Ltd [digitalmind-d.com](http://digitalmind-d.com) - R&D group lead  
   
 Jul 2012 - Nov 2018  
-1C (1c.com) - Researcher / Developer  
+1C [1c.com](http://1c.com) - Researcher / Developer  
   
 Oct 2012 - Mar 2014  
 Bell Integrator [bellintegrator.com](http://bellintegrator.com) - Architect  
   
 Sep 2009 - Oct 2012  
-Luxoft (luxoft.com) - Solution Architect / Group leader  
+Luxoft [luxoft.com](http://luxoft.com) - Solution Architect / Group leader  
   
 Dec 2007 - Jul 2009  
-INPAS (inpas.ru) - System Architect  
+INPAS [inpas.ru](http://inpas.ru) - System Architect  
   
 Mar 2004 - Nov 2007  
 Kaspersky Lab [kaspersky.com](http://kaspersky.com) /[infowatch.com](http://infowatch.com) - Architect / from Nov 2005 Head of Development Division  
@@ -72,7 +72,7 @@ Agroimpuls Bank - Software Developer
 Sep 1993 - Jul 1998 Voronezh State Technical University  
 Computer Science, Systems Engineer (4.26 of 5)  
   
-Jun 2020 - EF SET [efset.org](http://egartech.comefset.org/cert/tUHqpo) - English C2 (Proficient)  
+Jun 2020 - EF SET [efset.org](http://fset.org/cert/tUHqpo) - English C2 (Proficient)  
 Jul 2016 - [MongoDB University](MongoDBCertificate.pdf) - M101N: MongoDB for .NET Developers  
 Sep 2002 - [SkillDrill](SkillDrillCertificates.pdf) (S0U502862) MSVC++ 6.0  
 Aug 2002 - [SkillDrill](SkillDrillCertificates.pdf) (S0U502862) MSVC++ 6.0  
@@ -85,7 +85,7 @@ May 2000 - [BrainBench](BrainBenchCertificates.pdf) (ID 498) Javascript Programm
 
 ## Languages
 Russian - native  
-English - C2 (Proficient) [efset.org/cert/tUHqpo](efset.org/cert/tUHqpo)  
+English - C2 (Proficient) [efset.org/cert/tUHqpo](http://efset.org/cert/tUHqpo)  
 other - will learn if needed  
 
 ## Interests
