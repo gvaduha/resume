@@ -1,4 +1,4 @@
 #Jekyll configuration
 name: gvaduha's cv
-markdown: kramdown
-layout: page
+#markdown: kramdown
+#layout: page
