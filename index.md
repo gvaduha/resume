@@ -2,7 +2,7 @@
 
 ## Contacts
 gvaduha@gmail.com  
-https://github.com/gvaduha  
+[https://github.com/gvaduha](https://github.com/gvaduha)  
 
 ## Projects
 
