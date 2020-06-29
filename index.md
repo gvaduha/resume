@@ -89,7 +89,7 @@ English - C2 (Proficient) [efset.org/cert/tUHqpo](http://efset.org/cert/tUHqpo)
 other - will learn if needed  
 
 ## Interests
-Computer and human languages  
+Computer and natural languages  
 AI  
 Travelling, hiking  
 Ice hockey, cycling, motorcycling  
