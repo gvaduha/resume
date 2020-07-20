@@ -30,7 +30,7 @@ Online trading
 March 2019 – Present  
 Digital Mind Development Ltd [digitalmind-d.com](http://digitalmind-d.com) - R&D group lead  
   
-Jul 2012 - Nov 2018  
+Jul 2014 - Nov 2018  
 1C [1c.com](http://1c.com) - Researcher / Developer  
   
 Oct 2012 - Mar 2014  
@@ -95,4 +95,4 @@ Travelling, hiking
 Ice hockey, cycling, motorcycling  
 
 ## My tech tags
-research, architecture, UML, innovation, AI, classification, .NET, F#, C#, C++, mongodb, big data, security, TCP, REST, authentication, golang, python, SQL, MES
+research, architecture, project management, UML, innovation, AI, classification, .NET, F#, C#, C++, security, TCP, REST, SOA, authentication, mongodb, big data, golang, python, SQL, MES
