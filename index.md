@@ -74,7 +74,7 @@ Computer Science, Systems Engineer (4.26 of 5)
   
 Jun 2020 - EF SET [efset.org](EF-SET-Certificate-2020-06-17.pdf) - English C2 (Proficient)  
 Jul 2016 - [MongoDB University](MongoDBCertificate.pdf) - M101N: MongoDB for .NET Developers  
-Sep 2002 - [SkillDrill](SkillDrillCertificates.pdf) (S0U502862) MSVC++ 6.0  
+Sep 2002 - [SkillDrill](SkillDrillCertificates.pdf) (S0U502862) Project Management  
 Aug 2002 - [SkillDrill](SkillDrillCertificates.pdf) (S0U502862) MSVC++ 6.0  
 Nov 2000 - [BrainBench](BrainBenchCertificates.pdf) (ID 498) Visual C++  
 Oct 2000 - [BrainBench](BrainBenchCertificates.pdf) (ID 498) MS Visual InterDev 6.0  
