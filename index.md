@@ -95,4 +95,4 @@ Travelling, hiking
 Ice hockey, cycling, motorcycling  
 
 ## My tech tags
-research, architecture, project management, UML, innovation, AI, classification, .NET, F#, C#, C++, security, TCP, REST, SOA, authentication, mongodb, big data, golang, python, SQL, MES
+research, architecture, project management, UML, innovation, AI, classification, .NET Core, F#, C#, C++, security, TCP, REST, SOA, authentication, mongodb, big data, golang, python, SQL, MES
